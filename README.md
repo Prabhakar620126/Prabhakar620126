@@ -22,7 +22,8 @@ My goal is to grow as a data professional and solve business problems using data
 - Python (Pandas, NumPy, BeautifulSoup, Requests)  
 - Power BI, Tableau  
 - SQL (Joins, Aggregations, Window Functions)  
-- Excel (Pivot Tables, Power Query)  
+- Excel (Pivot Tables, Power Query)
+- Probability, Statistics, Linear Algebra.  
 - Google Colab, Jupyter Notebook  
 - Git & GitHub  
 
