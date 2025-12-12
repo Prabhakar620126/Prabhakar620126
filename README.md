@@ -78,6 +78,14 @@ A project for analyzing bank performance metrics  like total Application , Good 
 
 ---
 
+### 😀 7. Face Recognition Attendance System  
+A real-time attendance system using OpenCV and Python.
+
+🔗 **Repo:** [Link](https://github.com/Prabhakar620126/face-Attendance-system)  
+⭐ Skills Used: OpenCV, Machine Learning, CSV Automation  
+
+---
+
 ## 📄 Resume  
 📥 **Download My Resume:** [Link](https://drive.google.com/drive/folders/1Z30Te-n9JfGBJXJeITvPt1OKdZsf-yxb)<br>
 
