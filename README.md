@@ -33,7 +33,7 @@ My goal is to grow as a data professional and solve business problems using data
 ### 📱 1. Flipkart Mobile Phones Web Scraper  
 A Python-based scraper that extracts real customer-visible data (price, ratings, specifications) for the top 10 mobile brands.
 
-🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Flipkart_mobile_data_scrap)
+🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Flipkart_mobile_data_scrap)<br>
 ⭐ Skills Used: Python, BeautifulSoup, Requests, Pandas  
 
 ---
@@ -41,7 +41,7 @@ A Python-based scraper that extracts real customer-visible data (price, ratings,
 ### 📱 2.  Airbnb Hotel/Room Data Web Scraper 
 A Python-based scraper that extracts real customer-visible data for the Hotel in 10 cities.
 
-🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Airbnb_data_scrap)
+🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Airbnb_data_scrap)<br>
 ⭐ Skills Used: Python, BeautifulSoup, Requests, Pandas  
 
 ---
@@ -49,7 +49,7 @@ A Python-based scraper that extracts real customer-visible data for the Hotel in
 ### 📊 3. Instagram–Facebook Analytics Dashboard (Power BI)  
 Interactive dashboard showcasing social media insights like engagement, reach & performance trends.
 
-🔗 **Repo:** [ink](https://github.com/Prabhakar620126/Instagram_Fackbook_Dashboard)
+🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Instagram_Fackbook_Dashboard)<br>
 ⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  
 
 ---
@@ -57,14 +57,14 @@ Interactive dashboard showcasing social media insights like engagement, reach & 
 ### 📊 4. Pizza Sales Performance Dashboard – Power BI Project 
 Interactive dashboad to analyze pizza sales data and generate insights into: Sales performance Customer purchasing behavior Popular and underperforming pizza items Trends based on time, category, and size.
 
-🔗 **Repo:** [ink](https://github.com/Prabhakar620126/Pizza_dashboard)
+🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Pizza_dashboard)<br>
 ⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  , Excel, SQL, and Python 
 ---
 
 ### 📊 5. Car Sales Dashboard – Power BI Project 
 A complete analytics project to visualize and analyze car dealership performance
 
-🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Car_dashboard)
+🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Car_dashboard)<br>
 ⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  , Excel, SQL, and Python 
 
 ---
@@ -72,20 +72,20 @@ A complete analytics project to visualize and analyze car dealership performance
 ### 📊 6. Bank_Dashboard
 A project for analyzing bank performance metrics  like total Application , Good vs Baad loan .
 
-🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Bank_Dashboard)
+🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Bank_Dashboard)<br>
 ⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  , Excel, SQL, and Python 
 
 ---
 
 ## 📄 Resume  
-📥 **Download My Resume:** [Link](https://drive.google.com/drive/folders/1Z30Te-n9JfGBJXJeITvPt1OKdZsf-yxb)
+📥 **Download My Resume:** [Link](https://drive.google.com/drive/folders/1Z30Te-n9JfGBJXJeITvPt1OKdZsf-yxb)<br>
 
 ---
 
 ## 📫 Contact Me
 - **Email:** *prabhakar620126@gmail.com*  
 - **LinkedIn:** *https://www.linkedin.com/in/prabhakar-kumar-shahi-b84851259/*  
-- **GitHub:** https://github.com/Prabhakar620126  
+- **GitHub:** *https://github.com/Prabhakar620126 *
 
 ---
 
