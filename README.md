@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prabhakar Kumar</h1>
+<h1 align="center">Hi 👋, I'm Prabhakar Kumar Shahi </h1>
 <h3 align="center">Data Analyst | Python | Power BI | SQL | Web Scraping | ML Beginner</h3>
 
 ---
@@ -58,7 +58,8 @@ Interactive dashboard showcasing social media insights like engagement, reach & 
 Interactive dashboad to analyze pizza sales data and generate insights into: Sales performance Customer purchasing behavior Popular and underperforming pizza items Trends based on time, category, and size.
 
 🔗 **Repo:** [Link](https://github.com/Prabhakar620126/Pizza_dashboard)<br>
-⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  , Excel, SQL, and Python 
+⭐ Skills Used: Power BI, Data Modeling, DAX, Visualization  
+
 ---
 
 ### 📊 5. Car Sales Dashboard – Power BI Project 
@@ -85,7 +86,7 @@ A project for analyzing bank performance metrics  like total Application , Good 
 ## 📫 Contact Me
 - **Email:** *prabhakar620126@gmail.com*  
 - **LinkedIn:** *https://www.linkedin.com/in/prabhakar-kumar-shahi-b84851259/*  
-- **GitHub:** *https://github.com/Prabhakar620126 *
+- **GitHub:** *https://github.com/Prabhakar620126*
 
 ---
 
