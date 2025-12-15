@@ -18,7 +18,7 @@ My goal is to grow as a data professional and solve business problems using data
 ---
 
 ## Portfolio 
-Take a look on Portfolio  [Visit](https://happy-queen-a83.notion.site/Hey-I-m-Prabhakar-Kumar-Shahi-2c76fb690c8d800daaf4de73cf70367a)
+Take a look :  [Visit](https://happy-queen-a83.notion.site/Hey-I-m-Prabhakar-Kumar-Shahi-2c76fb690c8d800daaf4de73cf70367a)
 
 ---
 
